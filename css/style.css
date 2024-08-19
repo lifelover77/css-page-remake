@@ -1,0 +1,69 @@
+body {
+    text-align: center;
+}
+
+#header1 {
+    font-family: 'Arial';
+    font-weight: 750;
+}
+
+#hr1 {
+    border: 8px solid black;
+}
+
+.images {
+    justify-content: center;
+    align-content: center;
+}
+
+#hr2 {
+    border: 8px solid rgb(0, 0, 0);
+}
+
+#header2 {
+    font-family: 'Arial';
+    font-weight: 750;
+    color: #fb887b;
+}
+
+#p1 {
+    font-family: 'Arial';
+    font-size: 13px;
+}
+
+#h3 {
+    font-family: Arial;
+    background-color: #87cefa;
+}
+
+#p2 {
+    color: rgb(255, 0, 221);
+    font-style: italic;
+    font-weight: 700;
+}
+
+#h4 {
+    font-family: 'Arial';
+    border: 2px solid #a0a068;
+}
+
+#h5 {
+    font-family: 'Arial';
+}
+
+#h6 {
+        font-family: 'Arial';
+        color: #439443;
+        border: 2px solid #a0a068;
+        text-decoration: underline;
+}
+
+#h7 {
+    font-family: Arial;
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: 800;
+    font-size: 45px;
+    color: #ff6347;
+    background-color: #6a5acd;
+}
